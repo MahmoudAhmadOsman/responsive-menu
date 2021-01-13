@@ -1,0 +1,11 @@
+{
+  "name": "html-menu",
+  "version": "1.0.0",
+  "description": "Responsive html menu",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahmoud Osman",
+  "license": "ISC"
+}
